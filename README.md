@@ -72,7 +72,7 @@
     height="40"
     alt="figma logo"
   />
-  <img width="12" />
+  <img width="5" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     height="40"
